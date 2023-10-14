@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\bin\Debug\net6.0-windows\Create_Label.exe
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\bin\Debug\net6.0-windows\Create_Label.deps.json
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\bin\Debug\net6.0-windows\Create_Label.runtimeconfig.json
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\bin\Debug\net6.0-windows\Create_Label.dll
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\bin\Debug\net6.0-windows\Create_Label.pdb
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\obj\Debug\net6.0-windows\Create_Label.Form1.resources
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\obj\Debug\net6.0-windows\Create_Label.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\obj\Debug\net6.0-windows\Create_Label.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\obj\Debug\net6.0-windows\Create_Label.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\obj\Debug\net6.0-windows\Create_Label.AssemblyInfo.cs
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\obj\Debug\net6.0-windows\Create_Label.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\obj\Debug\net6.0-windows\Create_Label.dll
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\obj\Debug\net6.0-windows\refint\Create_Label.dll
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\obj\Debug\net6.0-windows\Create_Label.pdb
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\obj\Debug\net6.0-windows\Create_Label.genruntimeconfig.cache
+C:\Users\asus\source\repos\WinFormsApp6\Create_Label\obj\Debug\net6.0-windows\ref\Create_Label.dll
